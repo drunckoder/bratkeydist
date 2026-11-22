@@ -1,0 +1,2 @@
+b699018b1c8fe494b82422dccda17ebcef85b3597c986d6e34817604699977b5  bratkey.dll
+2bffe425fcdc86b9475d4de1f094e45ba38e7cb7aa11a3cfe0182144eb89dd2d  bratkey_launcher.exe
